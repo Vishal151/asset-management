@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+geoalchemy2
+shapely
+pydantic-settings
+alembic
+psycopg2
+passlib[bcrypt]
+python-jose[cryptography]
+greenlet
+pydantic[email]
+python-multipart
